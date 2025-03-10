@@ -1,6 +1,6 @@
 # mix-player
 
-- [Demo Project]()
+- [Demo Project](https://vahidsolimani.github.io/mix-player/)
 
 - Developed by vahid solimani
 
