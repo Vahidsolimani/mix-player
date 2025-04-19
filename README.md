@@ -1,6 +1,6 @@
 # mix-player
 
-# This project requires a VPN connection to fully load all data and assets properly. Some of the data sources and APIs used in this application are geographically restricted and may not be accessible without a VPN connection set to the appropriate region.
+*This project requires a VPN connection to fully load all data and assets properly. Some of the data sources and APIs used in this application are geographically restricted and may not be accessible without a VPN connection set to the appropriate region.*
 
 - [Demo Project](https://vahidsolimani.github.io/mix-player/)
 
